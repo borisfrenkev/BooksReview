@@ -23,7 +23,7 @@ namespace BookReviews
         {
             var dbContext = new BooksReviewContext();
             IQueryable<Category> categories = null;
-            categories = dbContext.Categories.Where(c=>c.Books.Count!=0).AsQueryable<Category>();
+            categories = dbContext.Categories.Where(c=>c.Books.Count!= 0).AsQueryable<Category>();
           
             return categories;
         }
