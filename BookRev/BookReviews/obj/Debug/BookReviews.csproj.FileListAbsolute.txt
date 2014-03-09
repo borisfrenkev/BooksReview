@@ -1,0 +1,153 @@
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\BookReviews.dll.config
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\BookReviews.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\BookReviews.pdb
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Antlr3.Runtime.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\EntityFramework.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\EntityFramework.SqlServer.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Google.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Web.Infrastructure.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Newtonsoft.Json.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Owin.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\System.Web.Optimization.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\System.Web.Providers.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\WebGrease.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\System.Web.Optimization.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Antlr3.Runtime.pdb
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Newtonsoft.Json.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\EntityFramework.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\EntityFramework.SqlServer.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Google.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\obj\Debug\BookReviews.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\obj\Debug\BookReviews.dll
+c:\users\boris\documents\visual studio 2013\Projects\BookReviews\BookReviews\obj\Debug\BookReviews.pdb
+D:\BookReviews_ModelBinding\BookReviews\bin\BookReviews.dll.config
+D:\BookReviews_ModelBinding\BookReviews\bin\BookReviews.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\BookReviews.pdb
+D:\BookReviews_ModelBinding\BookReviews\bin\Antlr3.Runtime.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\AspNet.ScriptManager.jQuery.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\EntityFramework.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\EntityFramework.SqlServer.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Google.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Web.Infrastructure.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Newtonsoft.Json.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\Owin.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\System.Web.Optimization.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\System.Web.Providers.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\WebGrease.dll
+D:\BookReviews_ModelBinding\BookReviews\bin\System.Web.Optimization.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Antlr3.Runtime.pdb
+D:\BookReviews_ModelBinding\BookReviews\bin\Newtonsoft.Json.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\EntityFramework.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\EntityFramework.SqlServer.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Google.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BookReviews_ModelBinding\BookReviews\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BookReviews_ModelBinding\BookReviews\obj\Debug\BookReviews.csprojResolveAssemblyReference.cache
+D:\BookReviews_ModelBinding\BookReviews\obj\Debug\BookReviews.dll
+D:\BookReviews_ModelBinding\BookReviews\obj\Debug\BookReviews.pdb
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\BookReviews.dll.config
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\BookReviews.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\BookReviews.pdb
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Antlr3.Runtime.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\AspNet.ScriptManager.jQuery.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\EntityFramework.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\EntityFramework.SqlServer.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Google.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Web.Infrastructure.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Newtonsoft.Json.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Owin.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\System.Web.Optimization.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\System.Web.Providers.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\WebGrease.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\System.Web.Optimization.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Antlr3.Runtime.pdb
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Newtonsoft.Json.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\EntityFramework.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\EntityFramework.SqlServer.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Google.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BookReviews_ModelBinding_ext\BookReviews\obj\Debug\BookReviews.csprojResolveAssemblyReference.cache
+D:\BookReviews_ModelBinding_ext\BookReviews\obj\Debug\BookReviews.dll
+D:\BookReviews_ModelBinding_ext\BookReviews\obj\Debug\BookReviews.pdb
